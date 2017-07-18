@@ -1,0 +1,565 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\KEVSER\Desktop\ogretim\BilMuh3_1\COMPUTERORGANISATION\yolcu_kevser_131044072\simulation\modelsim
+vAdder32Bit
+Idf:3WNSNNeZ?I7d>G40EO0
+V8[WNG7SPCM75bz`lKADJf3
+Z1 dC:\Users\KEVSER\Desktop\ogretim\BilMuh3_1\COMPUTERORGANISATION\yolcu_kevser_131044072\simulation\modelsim
+w1483119512
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Adder32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Adder32Bit.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 -O0
+n@adder32@bit
+!i10b 1
+!s100 PGbabIk63LW1O_flkh?mT3
+!s85 0
+!s108 1490474469.347000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Adder32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Adder32Bit.v|
+!s101 -O0
+vALU32Bit
+I[EX4@DejH]L2z68AknLZg1
+V7C1;JL:C?8k2<IMh94LRj0
+R1
+w1483186847
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALU32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALU32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@a@l@u32@bit
+!i10b 1
+!s100 ^i`I178FPke5OGfl3;3`m1
+!s85 0
+!s108 1490474468.956000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALU32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALU32Bit.v|
+!s101 -O0
+vALUControl
+Im_nO5@FE2KRFPNOTmR0<k2
+V<W_4WnTPJJ^aE7RjBS;7b3
+R1
+w1483119453
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALUControl.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALUControl.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@a@l@u@control
+!i10b 1
+!s100 9gFjL4;W0^SCk89=3kJ2`3
+!s85 0
+!s108 1490474468.804000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALUControl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALUControl.v|
+!s101 -O0
+vand32Bit
+Ie?@^WJQKHZTD7_GjA0S4E1
+VmM1kdg;ezAXo4^ajM`D`;2
+R1
+w1483119427
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/and32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/and32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nand32@bit
+!i10b 1
+!s100 ZTM6i[jb:2hFT44:PdcjS1
+!s85 0
+!s108 1490474468.681000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/and32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/and32Bit.v|
+!s101 -O0
+vCLL4Bit
+IWf<CaAVA[T;@[R;SYK3ji1
+VJQ?I]WnAo4ATW:XF<NFKG1
+R1
+w1483119331
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/CLL4Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/CLL4Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@c@l@l4@bit
+!i10b 1
+!s100 oP9@R0_Tz=X5z:0[hUkLI0
+!s85 0
+!s108 1490474468.511000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/CLL4Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/CLL4Bit.v|
+!s101 -O0
+vControlUnit
+IOfS[^m15zA06@7UBVWCS[2
+VWNHbC`hj:EhUKP:JWd2:T3
+R1
+w1483275587
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ControlUnit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ControlUnit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@control@unit
+!i10b 1
+!s100 5DUjNag6_CKm4[kEDflB11
+!s85 0
+!s108 1490474469.657000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ControlUnit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ControlUnit.v|
+!s101 -O0
+vfourBitFullAdder
+II0RnWPTWn3J9fU0_]QfJ53
+Vm8XBS5:^6EQGY;RQA@KI03
+R1
+w1483119296
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fourBitFullAdder.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fourBitFullAdder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nfour@bit@full@adder
+!i10b 1
+!s100 M;bi>l;7eB^@O15BWha^<1
+!s85 0
+!s108 1490474468.343000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fourBitFullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fourBitFullAdder.v|
+!s101 -O0
+vfullAdder16Bit
+IXYkP@ZeEV9^EHz72Q0ek`3
+VdBLJc0JWF]WDb8YY88bk01
+R1
+w1483119275
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fullAdder16Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fullAdder16Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nfull@adder16@bit
+!i10b 1
+!s100 zQJI_z=VIFFFjhn^zlFcn3
+!s85 0
+!s108 1490474468.216000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fullAdder16Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fullAdder16Bit.v|
+!s101 -O0
+vgeneratePropogate
+IP<]FX8?i]]k0YnbjZYJTa0
+V_MWNg47hXQ2a97N:VF[9]0
+R1
+w1483119236
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/generatePropogate.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/generatePropogate.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ngenerate@propogate
+!i10b 1
+!s100 O<h:2eQFQ098<MF=jUg?d1
+!s85 0
+!s108 1490474468.037000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/generatePropogate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/generatePropogate.v|
+!s101 -O0
+vgenProp16bit
+INCj<>S4aRknZ@oR>IZTHa1
+Vz_5gegM;7l75o@3UFg6EX2
+R1
+w1483119215
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/genProp16bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/genProp16bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ngen@prop16bit
+!i10b 1
+!s100 DdH26FD<H6YHB?NP9]UZL0
+!s85 0
+!s108 1490474467.902000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/genProp16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/genProp16bit.v|
+!s101 -O0
+vmips_core
+IZGbJ^N5an_;S^TQ3D3fRD1
+V]5e]5Fm_HE?Q43[W4<FWn3
+R1
+w1483274831
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 YG8NfUEJ;kkg95<VdMTUY1
+!s85 0
+!s108 1490474464.979000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v|
+!s101 -O0
+vmips_data_mem
+IG_I<PXjDKSmm]E]Vz=P;T1
+Vih=zm[>`eQ?JGL4GCb0lV3
+R1
+w1483274483
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 WXChgGYGGIMDQT<JzVnR00
+!s85 0
+!s108 1490474475.691000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v|
+!s101 -O0
+vmips_instr_mem
+Ih9UaA<CO3KZmRzhMQ2k2C2
+VWI?LDEJ@`5imZY0<6h3QT2
+R1
+w1483182741
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_instr_mem.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_instr_mem.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 YDSib]NGI18APbgYbnjBl0
+!s85 0
+!s108 1490474475.409000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_instr_mem.v|
+!s101 -O0
+vmips_registers
+Ie=h5Id[Ei<8O2:FdMAk5J1
+VIKjnY3G]3R=R@`]J?b;XX0
+R1
+w1483274371
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_registers.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_registers.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 oXJSPf7873bk5R=76a__>1
+!s85 0
+!s108 1490474475.135000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_registers.v|
+!s101 -O0
+vmips_testbench
+!i10b 1
+!s100 PUZcS^EQf_o32WNieEf0^2
+I?GLTX`SO7Phk8KAQ]R^Nn2
+Vf2]IUD=7[>X:I4<2Q=7YA2
+R1
+w1483280131
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1490474546.697000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v|
+!s101 -O0
+o-work work -O0
+vMUX2to1
+I[UBz6?2EgPeF5]K1E@l]73
+VgLFkz;83QaF:HPLOj52Sl3
+R1
+w1483119173
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/MUX2to1.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/MUX2to1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@m@u@x2to1
+!i10b 1
+!s100 jz1cI<:Q?<Fb1ee^U:YhP2
+!s85 0
+!s108 1490474467.582000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/MUX2to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/MUX2to1.v|
+!s101 -O0
+vMux4to1
+IhhA]X>@FghXL9RXOe0ATZ2
+VC9^bB=RA1[JJ69meNRCGY2
+R1
+w1483119153
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Mux4to1.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Mux4to1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@mux4to1
+!i10b 1
+!s100 0IL9iEbMNC30VFV?aIGLO2
+!s85 0
+!s108 1490474467.386000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Mux4to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Mux4to1.v|
+!s101 -O0
+vmux8to1
+I;Cb@H1W3H_Oa_5V74Z@<E2
+VgiV:=L1dbA=EVP4YEX`5R0
+R1
+w1483119132
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 WJ;m=^=[JFHOHBg_fkd5f0
+!s85 0
+!s108 1490474466.704000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1.v|
+!s101 -O0
+vmux8to1for32Bit
+IC=>QgUD95lZOMXoF@IIOm1
+VHSe6QATS>QIf`QEa<o?Fg0
+R1
+w1483119113
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1for32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1for32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nmux8to1for32@bit
+!i10b 1
+!s100 KN2E@P7QS=`;@nHz4]g<c1
+!s85 0
+!s108 1490474466.520000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1for32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1for32Bit.v|
+!s101 -O0
+vnor32Bit
+IOBS1@EW^4:S2j6lL_n5EG0
+VzG8]8FHWhba7[7a>m?>i]1
+R1
+w1483119091
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/nor32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/nor32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nnor32@bit
+!i10b 1
+!s100 <eTZA1SnNk]Z5oZ5`@`BZ2
+!s85 0
+!s108 1490474466.264000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/nor32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/nor32Bit.v|
+!s101 -O0
+voneBitFullAdder
+I?GRXoEkT:1B[JoGfkKA4j3
+VIB65cGL7^OfH8i4Bd<nCG0
+R1
+w1483119069
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitFullAdder.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitFullAdder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+none@bit@full@adder
+!i10b 1
+!s100 Fl@A4N[P;LCmN308ZAAiE1
+!s85 0
+!s108 1490474465.935000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitFullAdder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitFullAdder.v|
+!s101 -O0
+voneBitLeftShifter
+IIJ?KUAdJmdm2kfGXPJUKV3
+Vnl<AVRP`DgjHQH3;C1h@@1
+R1
+w1483119035
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitLeftShifter.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitLeftShifter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+none@bit@left@shifter
+!i10b 1
+!s100 @DUhDz252TVQbAdT2^ofS1
+!s85 0
+!s108 1490474465.555000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitLeftShifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitLeftShifter.v|
+!s101 -O0
+voneBitRightShifter
+IUKDQz5Z@1WZe9BmD6F=z;2
+V6kDzGdeO?L<4_oIgPCQc23
+R1
+w1483119007
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitRightShifter.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitRightShifter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+none@bit@right@shifter
+!i10b 1
+!s100 UZ4Tc[CAAcKjF`WB;NP6<0
+!s85 0
+!s108 1490474465.352000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitRightShifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitRightShifter.v|
+!s101 -O0
+vor32Bit
+IC:k@ZWAb2edg_de@IUICk1
+VlMAM5ZKOOLb=9lLZ2cQ_J3
+R1
+w1483119643
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/or32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/or32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nor32@bit
+!i10b 1
+!s100 98FK63G<E@NNTJCiRK1AH2
+!s85 0
+!s108 1490474474.532000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/or32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/or32Bit.v|
+!s101 -O0
+vPC
+ILX3WkMoEZLKACXBKkOjP_1
+Vn>[Ez80YnL]=[7Kn];B<e1
+R1
+w1483209628
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/PC.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/PC.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@p@c
+!i10b 1
+!s100 GjM4FO<bLCb9RiMgHn?YV0
+!s85 0
+!s108 1490474474.851000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/PC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/PC.v|
+!s101 -O0
+vtwoBitLeftShifter
+IEdk?JfIWk9lL?G7>8mogf0
+Viz^m0KKRQXH^QHhdb8[T70
+R1
+w1483119598
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/twoBitLeftShifter.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/twoBitLeftShifter.v
+L0 1
+R2
+r1
+31
+R3
+R4
+ntwo@bit@left@shifter
+!i10b 1
+!s100 A;Eko;ZTn1078`?RIG@4l1
+!s85 0
+!s108 1490474474.220000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/twoBitLeftShifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/twoBitLeftShifter.v|
+!s101 -O0
+vxor32Bit
+IEWZh:A8X@J:bRRb4VKZnO1
+V[:>B[f^KMKG<@MdEWRDZP0
+R1
+w1483119553
+8C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/xor32Bit.v
+FC:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/xor32Bit.v
+L0 1
+R2
+r1
+31
+R3
+R4
+nxor32@bit
+!i10b 1
+!s100 DHlVM;B_>_:H@Zak68`PG1
+!s85 0
+!s108 1490474474.053000
+!s107 C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/xor32Bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072|C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/xor32Bit.v|
+!s101 -O0

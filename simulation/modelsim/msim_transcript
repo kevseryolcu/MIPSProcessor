@@ -1,0 +1,352 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do project03_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_core
+# 
+# Top level modules:
+# 	mips_core
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitRightShifter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module oneBitRightShifter
+# 
+# Top level modules:
+# 	oneBitRightShifter
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitLeftShifter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module oneBitLeftShifter
+# 
+# Top level modules:
+# 	oneBitLeftShifter
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/oneBitFullAdder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module oneBitFullAdder
+# 
+# Top level modules:
+# 	oneBitFullAdder
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/nor32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module nor32Bit
+# 
+# Top level modules:
+# 	nor32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1for32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux8to1for32Bit
+# 
+# Top level modules:
+# 	mux8to1for32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mux8to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mux8to1
+# 
+# Top level modules:
+# 	mux8to1
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Mux4to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mux4to1
+# 
+# Top level modules:
+# 	Mux4to1
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/MUX2to1.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MUX2to1
+# 
+# Top level modules:
+# 	MUX2to1
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/genProp16bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module genProp16bit
+# 
+# Top level modules:
+# 	genProp16bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/generatePropogate.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module generatePropogate
+# 
+# Top level modules:
+# 	generatePropogate
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fullAdder16Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module fullAdder16Bit
+# 
+# Top level modules:
+# 	fullAdder16Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/fourBitFullAdder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module fourBitFullAdder
+# 
+# Top level modules:
+# 	fourBitFullAdder
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/CLL4Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CLL4Bit
+# 
+# Top level modules:
+# 	CLL4Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/and32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module and32Bit
+# 
+# Top level modules:
+# 	and32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALUControl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALUControl
+# 
+# Top level modules:
+# 	ALUControl
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ALU32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU32Bit
+# 
+# Top level modules:
+# 	ALU32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/Adder32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Adder32Bit
+# 
+# Top level modules:
+# 	Adder32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/ControlUnit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ControlUnit
+# 
+# Top level modules:
+# 	ControlUnit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/xor32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module xor32Bit
+# 
+# Top level modules:
+# 	xor32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/twoBitLeftShifter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module twoBitLeftShifter
+# 
+# Top level modules:
+# 	twoBitLeftShifter
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/or32Bit.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module or32Bit
+# 
+# Top level modules:
+# 	or32Bit
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/PC.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module PC
+# 
+# Top level modules:
+# 	PC
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_registers.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_registers
+# 
+# Top level modules:
+# 	mips_registers
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_instr_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_instr_mem
+# 
+# Top level modules:
+# 	mips_instr_mem
+# vlog -vlog01compat -work work +incdir+C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072 {C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_data_mem
+# 
+# Top level modules:
+# 	mips_data_mem
+# 
+vlog -reportprogress 300 -work work C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module mips_testbench
+# 
+# Top level modules:
+# 	mips_testbench
+vsim work.mips_testbench
+# vsim work.mips_testbench 
+# Loading work.mips_testbench
+# Loading work.mips_core
+# Loading work.ControlUnit
+# Loading work.ALUControl
+# Loading work.ALU32Bit
+# Loading work.xor32Bit
+# Loading work.and32Bit
+# Loading work.or32Bit
+# Loading work.nor32Bit
+# Loading work.oneBitLeftShifter
+# Loading work.MUX2to1
+# Loading work.oneBitRightShifter
+# Loading work.Adder32Bit
+# Loading work.fullAdder16Bit
+# Loading work.genProp16bit
+# Loading work.generatePropogate
+# Loading work.CLL4Bit
+# Loading work.fourBitFullAdder
+# Loading work.oneBitFullAdder
+# Loading work.mux8to1for32Bit
+# Loading work.mux8to1
+# Loading work.Mux4to1
+# Loading work.mips_data_mem
+# Loading work.mips_registers
+# Loading work.twoBitLeftShifter
+# Loading work.PC
+# Loading work.mips_instr_mem
+# ** Warning: (vsim-3015) C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v(58): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'mem_address'. The port definition is at: C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v(1).
+# 
+#         Region: /mips_testbench/top/mdm
+# ** Warning: (vsim-3015) C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_core.v(58): [PCDPC] - Port size (32 or 32) does not match connection size (1) for port 'write_data'. The port definition is at: C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_data_mem.v(1).
+# 
+#         Region: /mips_testbench/top/mdm
+add wave -position insertpoint  \
+sim:/mips_testbench/Result \
+sim:/mips_testbench/opCode \
+sim:/mips_testbench/data1 \
+sim:/mips_testbench/data2 \
+sim:/mips_testbench/wEnable \
+sim:/mips_testbench/clk \
+sim:/mips_testbench/instruction \
+sim:/mips_testbench/i
+step -current
+# reg[i1]: 00000000000000000000000000000000, reg[i2]: 00000000000000000000000000010011
+# 
+# readdata1: 00000000000000000000000000000000, readdata2: 00000000000000000000000000010011
+# 
+# PC = 00000000000000000000000000000000
+# instruction = 00111100000100110001000000000000
+#  0 1 0 1 0 0 0 0 111 001111
+# 
+# write_data: 00010000000000000000000000000000, writereg: 10011
+# 
+# PC = 00000000000000000000000000000001
+# PC = 00000000000000000000000000000001
+# instruction = 10001110011101010000000000000000
+#  0 1 1 1 1 0 0 0 011 100011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00000000000000000000000000010101
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00000000000000000000000000010101
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 10101
+# 
+# PC = 00000000000000000000000000000010
+# PC = 00000000000000000000000000000010
+# instruction = 10001110011010000000000000000100
+#  0 1 1 1 1 0 0 0 011 100011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00000000000000000000000000001000
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00000000000000000000000000001000
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 01000
+# 
+# PC = 00000000000000000000000000000011
+# PC = 00000000000000000000000000000011
+# instruction = 10001110011010010000000000001000
+#  0 1 1 1 1 0 0 0 011 100011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00000000000000000000000000001001
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00000000000000000000000000001001
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 01001
+# 
+# PC = 00000000000000000000000000000100
+# PC = 00000000000000000000000000000100
+# instruction = 10001110011011010000000000001100
+#  0 1 1 1 1 0 0 0 011 100011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00000000000000000000000000001101
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00000000000000000000000000001101
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 01101
+# 
+# PC = 00000000000000000000000000000101
+# PC = 00000000000000000000000000000101
+# instruction = 00100110101101010000000000011000
+#  0 1 0 1 0 0 0 0 011 001001
+# 
+# reg[i1]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, reg[i2]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# readdata1: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, readdata2: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 10101
+# 
+# PC = 00000000000000000000000000000110
+# PC = 00000000000000000000000000000110
+# instruction = 00100100000101100000000001111100
+#  0 1 0 1 0 0 0 0 011 001001
+# 
+# reg[i1]: 00000000000000000000000000000000, reg[i2]: 00000000000000000000000000010110
+# 
+# readdata1: 00000000000000000000000000000000, readdata2: 00000000000000000000000000010110
+# 
+# write_data: 00000000000000000000000001111100, writereg: 10110
+# 
+# PC = 00000000000000000000000000000111
+# PC = 00000000000000000000000000000111
+# instruction = 00000010101101101011100000100001
+#  1 0 0 1 0 0 0 0 111 000000
+# 
+# reg[i1]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, reg[i2]: 00000000000000000000000001111100
+# 
+# readdata1: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, readdata2: 00000000000000000000000001111100
+# 
+# write_data: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, writereg: 10111
+# 
+# PC = 00000000000000000000000000001000
+# PC = 00000000000000000000000000001000
+# instruction = 10101110011101010000000000010000
+#  0 1 0 0 0 1 0 0 011 101011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# PC = 00000000000000000000000000001001
+# PC = 00000000000000000000000000001001
+# instruction = 10101110011101100000000000010100
+#  0 1 0 0 0 1 0 0 011 101011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00000000000000000000000001111100
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00000000000000000000000001111100
+# 
+# PC = 00000000000000000000000000001010
+# PC = 00000000000000000000000000001010
+# instruction = 10101110011101110000000000011000
+#  0 1 0 0 0 1 0 0 011 101011
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 
+# PC = 00000000000000000000000000001011
+# PC = 00000000000000000000000000001011
+# instruction = 00100110011100110000000000001100
+#  0 1 0 1 0 0 0 0 011 001001
+# 
+# reg[i1]: 00010000000000000000000000000000, reg[i2]: 00010000000000000000000000000000
+# 
+# readdata1: 00010000000000000000000000000000, readdata2: 00010000000000000000000000000000
+# 
+# write_data: 00010000000000000000000000001100, writereg: 10011
+# 
+# PC = 00000000000000000000000000001100
+# PC = 00000000000000000000000000001100
+# instruction = 10001110011010101111111111111100
+#  0 1 1 1 1 0 0 0 011 100011
+# 
+# ** Note: $finish    : C:/Users/KEVSER/Desktop/ogretim/BilMuh3_1/COMPUTERORGANISATION/yolcu_kevser_131044072/mips_testbench.v(49)
+#    Time: 240 ps  Iteration: 0  Instance: /mips_testbench
